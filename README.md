@@ -1,5 +1,6 @@
 ### 
-<h1 align='center'>Hola! 👋 I'm Sourav Biswas<\h1>
+<h1 align='center'>Hola! 👋 I'm Sourav Biswas</h1>
+<h3 align='center'>A Computer Science Undergrad
 
 <!--
 **souravbiswas19/souravbiswas19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
