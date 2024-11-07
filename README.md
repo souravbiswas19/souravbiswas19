@@ -44,9 +44,9 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Metrics (for a comprehensive profile report) -->
-  <img src="https://metrics.lecoq.io/souravbiswas19?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&followup=1&achievements=1&activity=1&repositories=1&projects=1&repositories=100&activity.limit=5&activity.days=14&activity.filter=all&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta" alt="Comprehensive GitHub Metrics" />
+  <img src="https://github.com/souravbiswas19/souravbiswas19/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
+
 
 ---
 
