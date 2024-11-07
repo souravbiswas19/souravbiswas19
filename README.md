@@ -60,8 +60,13 @@
 ---
 
 <h3 align="left">📚 Education:</h3>
-- **M.Tech in Computer Science** - National Institute of Technology, Rourkela *(2024 - Present)*
-- **B.E in Computer Science** - University Institute of Technology, Burdwan *(2018 - 2024)* - CGPA: 9.23
+
+- **M.Tech in Computer Science and Engineering**  
+  *National Institute of Technology, Rourkela* *(2024 - Present)*
+
+- **B.E in Computer Science and Engineering**  
+  *University Institute of Technology, Burdwan* *(2020 - 2024)*  
+  **CGPA**: 9.23
 
 ---
 
