@@ -12,14 +12,28 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on [Hotel Management AI Agent](https://github.com/souravbiswas19/Hotel-Management-AI-Agent)
-- 🌱 Learning **Generative AI, Transformer Models, Langchain, Llama-Index, FastAPI, Retrieval Augmented Generation**
-- 👯 Looking to collaborate on [RAG Application](https://github.com/souravbiswas19/Legal-Retrieval-Augmented-Generation)
-- 🤝 Seeking help with [Inference Engine](https://github.com/souravbiswas19/Legal-Research-Inference-Engine)
-- 💬 Ask me about **FastAPI, Generative AI, Transformers**
+- 🔭 Currently working on [Agentic AI Trip Planner](https://github.com/souravbiswas19/AI_Trip_Planner)
+- 🌱 Learning **Agentic AI, Generative AI, Transformer Models, Langchain, Llama-Index, FastAPI, Retrieval Augmented Generation**
+- 👯 Looking to collaborate on [Agentic AI Application](https://github.com/souravbiswas19/AI_Trip_Planner)
+- 💬 Ask me about **GAIT Analysis, Agentic AI, FastAPI, Generative AI, Transformers**
 - 📫 Reach me at: **souravbiswasofficial19april@gmail.com**
 
+
+
 ---
+
+<h3 align="left">🌐 Connect with Me:</h3>
+<p align="center">
+  <a href="mailto:souravbiswasofficial19april@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-souravbiswasofficial19april%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/souravbiswas19">
+    <img src="https://img.shields.io/badge/GitHub-souravbiswas19-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/souravbiswas19/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sourav%20Biswas-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 <h3 align="left">📊 GitHub Stats & Activity</h3>
 <p align="center">
@@ -32,11 +46,6 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=souravbiswas19&theme=rogue" alt="Activity Graph" />
-</p>
-
-
-<p align="center">
   <!-- GitHub Profile Summary Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souravbiswas19&theme=radical" alt="Profile Summary Card" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=souravbiswas19&theme=radical" alt="Repos Per Language" />
@@ -44,21 +53,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/souravbiswas19/souravbiswas19/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/souravbiswas19/souravbiswas19/output/snake.svg" alt="Snake animation" />
 </p>
 
 
----
 
-<h3 align="left">🌐 Connect with Me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/sourav-biswas-ml-ai-dl" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-
-  <a href="mailto:souravbiswasofficial19april@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="25" width="35" />
-    </a>
 
 
 </p>
