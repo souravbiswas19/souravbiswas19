@@ -52,9 +52,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=souravbiswas19&theme=radical" alt="Most Commit Language" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/souravbiswas19/souravbiswas19/output/snake.svg" alt="Snake animation" />
-</p>
+![snake gif](https://github.com/souravbiswas19/souravbiswas19/blob/output/github-snake-dark.svg)
 
 
 
